@@ -1,0 +1,3 @@
+enum MovementType{
+    CREDIT, DEBIT
+}
